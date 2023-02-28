@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/fahadhu57435322" target="blank"><img src="https://img.shields.io/twitter/follow/fahadhu57435322?logo=twitter&style=for-the-badge" alt="fahadhu57435322" /></a> </p>
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **React JS / React Native**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **react, react native**
 
 - 📫 How to reach me **fahadhussain0127@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uboQCtMfJ5QOaG0psorHESokh5VE1d2E/view?usp=share_link](https://drive.google.com/file/d/1uboQCtMfJ5QOaG0psorHESokh5VE1d2E/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
